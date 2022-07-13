@@ -4,7 +4,7 @@ I make **open-source** projects
 
 ## Organization: [@Modern-Realm](https://github.com/Modern-Realm)
 
-## Skills:
+## Skills
 - Python `MAIN`
 - Web Development (HTML, CSS, JS)
 - Flask framework
