@@ -14,7 +14,7 @@ I make **open-source** projects
   - SQlite
   - Pymongo/ MongoDB
 - Rest API
-- Discord Bots - using py-cord, nextcord
+- Discord Bots - using py-cord, nextcord and discord.py
 - Selenium
 
 ## Contact Me
