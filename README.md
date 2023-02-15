@@ -1,5 +1,5 @@
 ## About me
-I'm a **Programmer/ Coder**,
+I'm a **Coder**,
 I make **open-source** projects
 
 ## Organization: [@Modern-Realm](https://github.com/Modern-Realm)
