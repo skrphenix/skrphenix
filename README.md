@@ -20,5 +20,4 @@ I make **open-source** projects
 ## Contact Me
 - Discord Tag: **`Skrphenix#5373`**
 - [Discord Server](https://discord.gg/GVMWx5EaAN)
-- [Linktree Profile](https://linktr.ee/skrphenix)
 - [Gmail](mailto:saikeerthan.keerthan.9@gmail.com)
