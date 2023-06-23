@@ -18,6 +18,6 @@ I make **open-source** projects
 - Selenium
 
 ## Contact Me
-- Discord Tag: **`Skrphenix#5373`**
+- Discord Username: **`skrphenix`**
 - [Discord Server](https://discord.gg/GVMWx5EaAN)
 - [Gmail](mailto:saikeerthan.keerthan.9@gmail.com)
