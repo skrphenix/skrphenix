@@ -20,7 +20,7 @@ Talented Python Developer accomplished in handling connectivity between websites
 - Discord Bots - using py-cord, nextcord and discord.py
 - Selenium
 
-## Contact Me
+## Contact
 
 - Discord Username: **`skrphenix`**
 - [Discord Server](https://discord.gg/GVMWx5EaAN)
