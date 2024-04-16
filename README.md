@@ -21,7 +21,7 @@ Talented Python Developer accomplished in handling connectivity between websites
   - SQlite
   - Pymongo/ MongoDB
 - Rest API
-- Discord Bots - using py-cord, nextcord and discord.py
+- Discord Bot Development
 - Selenium
 
 ## Contact
