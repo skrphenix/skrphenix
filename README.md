@@ -1,6 +1,6 @@
 ## Website
 
-- https://skrphenix.github.io/
+- [skrphenix.dev](https://skrphenix.dev/)
 
 ## About me
 
