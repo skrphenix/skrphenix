@@ -28,4 +28,4 @@ Talented Python Developer accomplished in handling connectivity between websites
 
 - Discord Username: [**`skrphenix`**](https://discord.com/users/703160989172105337)
 - [Discord Server](https://discord.gg/GVMWx5EaAN)
-- [Gmail](mailto:saikeerthan.keerthan.9@gmail.com)
+- [Gmail](mailto:contact@skrphenix.dev)
